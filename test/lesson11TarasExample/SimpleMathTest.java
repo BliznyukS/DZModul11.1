@@ -1,8 +1,6 @@
-package lesson11TarasExampleTest;
+package lesson11TarasExample;
 
-import lesson11TarasExample.SimpleMath;
 import org.junit.Assert;
-import org.junit.Test;
 
 public class SimpleMathTest {
 
